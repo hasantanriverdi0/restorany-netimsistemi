@@ -1,6 +1,6 @@
 # 🍽️ Restoran Yönetim Sistemi
 
-Bu proje, **C# Windows Forms** kullanılarak geliştirilmiş bir **Restoran Yönetim Sistemi** uygulamasıdır. Kullanıcılar, sistem üzerinden menüleri görüntüleyebilir, sipariş işlemlerini yönetebilir ve masa durumlarını takip edebilir. Proje eğitim amaçlıdır.
+Bu proje, **C# Windows Forms** kullanılarak geliştirilmiş bir **Restoran Yönetim Sistemi** uygulamasıdır. Kullanıcılar, sistem üzerinden menüleri görüntüleyebilir, sipariş işlemlerini yönetebilir. Proje eğitim amaçlıdır.
 
 ## 🧩 Özellikler
 
